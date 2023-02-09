@@ -61,7 +61,7 @@ const Register = () => {
             {/* <Link to='/'>
                 <button className='btn btn-secondary'>Back to Home</button>
             </Link> */}
-            <h2 className='text-center mb-4'>Post Form Data</h2>
+            <h2 className='text-center mb-4'>Post Birds Data</h2>
             <form>
                 <div className="row">
                     <div className="mb-3 col-lg-6 col-md-6 col-12">
